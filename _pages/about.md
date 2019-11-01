@@ -16,7 +16,7 @@ redirect_from:
 
 * I am a Ph.D. Candidate in Department of Statistics at [Iowa State University](https://www.iastate.edu/), supervised by [Prof. Peng Liu](https://pliu.rbind.io) and 
 [Prof. Yumou Qiu](https://sites.google.com/a/ucr.edu/yehuali/home).
-[[Curriculum Vitae]](http://haowang47.github.io/files/WANG_Hao_CV_20191101.pdf) 
+[[RESUME]](http://haowang47.github.io/files/WANG_Hao_CV_20191101.pdf) 
 * I received my Bachelor’s Degree in Statistics (dual degrees program) at [Colorado State University](https://www.colostate.edu/) and [East China Normal University](http://english.ecnu.edu.cn/).  
 
 <!--
