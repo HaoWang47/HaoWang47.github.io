@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<!--
+<p align="center">
+  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+-->
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* I am a Ph.D. Candidate in Department of Statistics at [Iowa State University](https://www.iastate.edu/), supervised by [Prof. Peng Liu](https://pliu.rbind.io) and 
+[Prof. Yumou Qiu](https://sites.google.com/a/ucr.edu/yehuali/home).
+[[Curriculum Vitae]](http://haowang47.github.io/files/WANG_Hao_CV_20191101.pdf) 
+* I received my Bachelor’s Degree in Statistics (dual degrees program) at [Colorado State University](https://www.colostate.edu/) and [East China Normal University](http://english.ecnu.edu.cn/).  
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<!--
+* I am currently a Data & Applied Scientist at [Microsoft AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/).
+* I received my Ph.D. in Statistics from [Iowa State University](https://www.iastate.edu/) (supervised by [Dan Nettleton](https://dnett.github.io) and 
+[Yehua Li](https://sites.google.com/a/ucr.edu/yehuali/home)) in 2019, and my B.S. in Statistics from the [School of the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (Honors Program), [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2014. I worked at OIST (2013), Liberty Mutual (2017) and eBay (2018) as summer intern.
+* My research interests lie on interpretation, diagnostics, inference, and automation for machine learning algorithms, large-scale online experimentation, functional data analysis, and applied data science.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+# News
+* December 8-14, 2019. I will attend *[NeurIPS 2019](https://nips.cc/)* in Vancouver, Canada.
+* October 21-25, 2019. I visited Microsoft New England Research and Development Center in Boston, and attended Harvard Data
+Science Initiative Conference.
+* June 15, 2019. I participated in the ACM-IMS Interdisciplinary Summit on the Foundations of Data Science in San Francisco, CA.
+* May 30, 2019. I gave an e-poster on "Estimating Plant Growth Curves and Derivatives by Modeling Crowdsourced Imaged-based Data" at the 2019 Symposium on Data Science and Statistics in Bellevue, WA.
+* February 12, 2019. Our paper titled "Random Forest Prediction Intervals" has been accepted by *[The American Statistician](https://github.com/haozhestat/rfinterval)*. The corresponding R package *[rfinterval](https://cran.r-project.org/web/packages/rfinterval/index.html)* is avaialbe on CRAN.
+* Our research work about [Constructing a Graph from User Implicit Feedback
+](http://meetings.siam.org/sess/dsp_talk.cfm?p=96916) has been accepted by the SIAM Conference on Computational Science and Engineering (CSE19).
+* January 10, 2019. I gave a 30-min talk at Facebook Headquarter in Menlo Park, CA.
+* December 24, 2018. Our paper titled "[Optimal Designs for Genomic Prediction in Hybrid Crops](https://www.cell.com/molecular-plant/fulltext/S1674-2052(19)30002-4)" was accepted by *[Molecular Plant](https://www.cell.com/molecular-plant/home)*.
+* December 13, 2018. I gave a presentation in Department of Mathematics and Statistics at the University of New Hampshire in Durham, NH.
+* December 5-8, 2018. I visited School of Mathematics and Statistics at the University of Melbourne and gave a talk on spatially dependent functional data.
+* 2018 - 2019. I serve on the [International Student Advisory Board](https://www.committees.iastate.edu/comm-info.php?id=163), Iowa State University.
+* July 28 - August 2, 2018. I attended and gave an oral talk at the *[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215660)* in Vancouver, Canada.
+* May 21, 2018. I started to work as a data scientist intern at [eBay advertising](https://www.ebay.com/) for the next three months.
+* May 16, 2018. I received the *SAMSI Travel Award* for presenting at the *[Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2018/)* in Reston, Virginia. 
+* May 7, 2018. I presented a poster at the *[Conference on Predictive Inference and Its Applications](https://predictiveinference.github.io/)* in Ames, IA.
+* April 21 - April 28, 2018. I visited the Department of Statistics at University of California, Riverside.
+* March 24 - March 27, 2018. I attended the [ENAR Spring Meetings](https://www.enar.org/meetings/spring2018) in Atlanta, Georgia.  
+* May, 2017. I was elected as the President of the [Iowa STAT-ers](https://www.stuorg.iastate.edu/site/stat-ers) for 2017-18.
+-->
