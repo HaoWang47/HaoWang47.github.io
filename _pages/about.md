@@ -15,9 +15,10 @@ redirect_from:
 -->
 
 * I am a Ph.D. Candidate in Department of Statistics at [Iowa State University](https://www.iastate.edu/), supervised by [Prof. Peng Liu](https://pliu.rbind.io) and 
-[Prof. Yumou Qiu](https://sites.google.com/a/ucr.edu/yehuali/home).
+[Prof. Yumou Qiu]().
 [[RESUME]](http://haowang47.github.io/files/WANG_Hao_CV_20191101.pdf) 
-* I received my Bachelor’s Degree in Statistics (dual degrees program) at [Colorado State University](https://www.colostate.edu/) and [East China Normal University](http://english.ecnu.edu.cn/).  
+* I received my Bachelor’s Degree in Statistics (dual degrees program) at [Colorado State University](https://www.colostate.edu/) and [East China Normal University](http://english.ecnu.edu.cn/) in 2018.  
+* I received my Master's Degree in Statistics at [Iowa State University](www.iastate.edu) with project `Gene Co-expression Network Reconstruction with C-level Partial Correlation Graph` in 2019.
 
 <!--
 * I am currently a Data & Applied Scientist at [Microsoft AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/).
