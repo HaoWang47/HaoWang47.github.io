@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 3'
-date: 2014-08-14
-permalink: /posts/2014/08/blog-post-3/
+title: 'Blog Post number N'
+date: 2222-02-22
+permalink: /posts/2014/08/blog-post-N/
 tags:
   - cool posts
   - category1
