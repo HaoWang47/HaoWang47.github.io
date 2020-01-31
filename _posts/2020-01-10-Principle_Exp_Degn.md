@@ -17,7 +17,9 @@ Experiment; Experimental Design (Assignment Rules); Treatment; Experimental Unit
 Rule of the rules 
 ======
 **Randomization**: random assignment of treatments to experimental units.
+
 **Blocking**: grouping similar experimental units together and assigning different treatments within such groups of experimental units.
+
 **Replication**: applying a treatment independently to two or more experimental units.
 
 Looking at Experimental Design in another perspective, Designing is aimed to control the unwanted variation while focus on the interested ones. We usually divide all potentially relavant factors into nuisance factors and interested factors. Both Blocking and Randomization are used to deal with nuisance factors. Blocking is used when the nuisance factor is under our control and randomization is used when it is not under control. Dr. Liu once mentioned, "block what you can, randomize what you cannot", which really makes sense. 
@@ -28,8 +30,8 @@ Confounding factors are those effects of two or more explanatory variables which
 
 Common Design
 =====
-CRD: Complete Randomized Design, the most simple and useful design.
-RCBD: Randomized Complete Block Design.
-BIBD: Balanced Incomplete Block Design.
-Latin Square.
-Split Plot Design.
+  - CRD: Complete Randomized Design, the most simple and useful design.
+  - RCBD: Randomized Complete Block Design.
+  - BIBD: Balanced Incomplete Block Design.
+  - Latin Square.
+  - Split Plot Design.
