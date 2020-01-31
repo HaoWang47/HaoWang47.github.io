@@ -13,16 +13,22 @@ tags:
 对了，买的花开了 :)
 
 <figure class="half">
-    <a href="/files/IMG_0127.JPG"></a>
-    <a href="/files/IMG_0135.JPG"></a>
+    <a href="http://haowang47.github.io//files/IMG_0127.JPG"></a>
+    <a href="http://haowang47.github.io//files/IMG_0135.JPG"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
 <p align="center">
-   <img src="http://haowang47.github.io/files/IMG_0185.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
+   <img src="http://haowang47.github.io/files/IMG_0127.JPG" alt="Photo" style="width: 450px;"/> 
 </p>
 <p align="center">
-   <img src="http://haowang47.github.io/files/IMG_0235.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
+   <img src="http://haowang47.github.io/files/IMG_0135.JPG" alt="Photo" style="width: 450px;"/> 
+</p>
+<p align="center">
+   <img src="http://haowang47.github.io/files/IMG_0185.JPG" alt="Photo" style="width: 450px;"/> 
+</p>
+<p align="center">
+   <img src="http://haowang47.github.io/files/IMG_0235.JPG" alt="Photo" style="width: 450px;"/> 
 </p>
 
 
