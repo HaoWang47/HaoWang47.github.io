@@ -13,16 +13,16 @@ tags:
 对了，买的花开了 :)
 
 <p align="center">
-   <img src="http://haowang47.github.io/files/IMG_0127.JPG" alt="Photo" style="width: 800px;"/> 
+   <img src="http://haowang47.github.io/files/IMG_0127.JPG" alt="Photo" style="width: 600px;"/> 
 </p>
 <p align="center">
    <img src="http://haowang47.github.io/files/IMG_0135.JPG" alt="Photo" style="height: 800px;"/> 
 </p>
 <p align="center">
-   <img src="http://haowang47.github.io/files/IMG_0185.jpg" alt="Photo" style="width: 800px;"/> 
+   <img src="http://haowang47.github.io/files/IMG_0185.jpg" alt="Photo" style="width: 600px;"/> 
 </p>
 <p align="center">
-   <img src="http://haowang47.github.io/files/IMG_0235.jpg" alt="Photo" style="width: 800px;"/> 
+   <img src="http://haowang47.github.io/files/IMG_0235.jpg" alt="Photo" style="width: 600px;"/> 
 </p>
 
 
