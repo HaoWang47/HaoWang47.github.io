@@ -1,5 +1,5 @@
 ---
-title: "Fishy Fishers Exact Test"
+title: 'Fishy Fishers Exact Test'
 date: 2020-02-07
 permalink: /posts/2020/02/blog-post-4/
 tags:
