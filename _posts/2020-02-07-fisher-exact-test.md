@@ -1,7 +1,7 @@
 ---
 title: 'Fishy Fisher’s Exact Test'
 date: 2020-02-07
-permalink: /posts/2020/02/blog-post-4/
+permalink: /posts/2020/02/blog-post-5/
 tags:
   - STAT
   - Notes
