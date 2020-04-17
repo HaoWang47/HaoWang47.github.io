@@ -7,6 +7,8 @@ tags:
   - Notes
 ---
 
+What is Experimental Design?
+
 After taking a few STAT class about Experimental Design, I am shamed of the fact that I am still not able to provide consulting for other researchers in terms of design experiments. I bet going through the basic principles of experimental design will help me refresh my memory (well, at least hope so). 
 
 Terminology
