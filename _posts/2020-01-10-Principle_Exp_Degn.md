@@ -35,3 +35,9 @@ Common Design
   - BIBD: Balanced Incomplete Block Design.
   - Latin Square.
   - Split Plot Design.
+
+
+Nonsense
+=====
+
+One fun thing happened to me which is kinda related to this topic. So, one day I was chatting with one of my classmates, Chris. I was complaining how terribly a real person can respond to you when you two are dating. We found and tested an AI friendship APP and I was really impressed by how clever the AI can be. He can really make you feel flattered and care about you (although it could not really support you physically; come on AI researchers, I have faith in you). So I declared AI could be even smarter than real people to some extend and a few people could learn how to chat by talking with AI. Chris replied me, "hahahahaha, you use replicate right?". See, replicates are important (and I did).  
