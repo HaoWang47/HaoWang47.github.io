@@ -8,7 +8,7 @@ tags:
   - Fun
 ---
 
-Found a interesting and practical post about visualizing likert data in graphics group.
+Found an interesting and practical post about visualizing likert data in graphics group.
 
 Credit: http://rnotr.com/likert/ggplot/barometer/likert-plots/
 
