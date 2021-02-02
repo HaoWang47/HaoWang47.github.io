@@ -26,4 +26,4 @@ So, there are $C^4_8$ ways to determine the tea infusion in total (distributing 
 
 ## Fisher’s Exact Test
  
-Now let's go back to Fisher’s Exact Test. 
+Now let's go back to Fisher’s Exact Test. TBD
