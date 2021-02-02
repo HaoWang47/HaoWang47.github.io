@@ -1,6 +1,6 @@
 ---
 title: 'whatever/non-sense'
-date: 2199-01-01
+date: 2021-01-31
 permalink: /posts/2021/01/blog-post-8/
 tags:
   - My Life
